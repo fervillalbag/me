@@ -35,7 +35,7 @@ const Home: NextPage = () => {
           honesty and integrity, changing the way we interact online.
         </p>
 
-        <div className="mt-5 gap-x-4 grid grid-cols-3">
+        <div className="mt-5 gap-4 grid grid-cols-2 lg:grid-cols-3">
           <a
             target="_blank"
             href="https://github.com/fervillalbag/kiwi"
